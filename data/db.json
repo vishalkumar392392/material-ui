@@ -36,5 +36,15 @@
       "category": "money",
       "id": 6
     }
+  ],
+  "books": [
+    {
+      "name": "Attitude Is Very Thing..",
+      "id": 1
+    },
+    {
+      "name": "The monk who sold his ferrari",
+      "id": 2
+    }
   ]
 }
